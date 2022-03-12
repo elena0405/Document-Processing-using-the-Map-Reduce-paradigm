@@ -1,4 +1,6 @@
 # Document-Processing-using-the-Map-Reduce-par
+Tema 2 Algoritmi Paraleli si Distribuiti
+
 In cadrul acestei teme, am rezolvat pasii esentiali in clasa Tema2. Am folosit modelul clasic de paralelizare, anume
 folosind thread-uri. Astfel, am creat o clasa Task, in care retin informatiile aferente fiecarui task: fisierul,
 offset-ul si dimensiunea fragmentului aferent taskului respectiv. Crearea taskurilor am facut-o in metoda main a clasei
